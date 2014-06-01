@@ -7,13 +7,13 @@
 
 #### Description
 
-C'est un travailleur normal et pendant ses temps libres il pratique la course à pied. De ce fait certains week-ends il aime bien participer à des courses/joggings seul ou avec ses amis. Il s'entraine plusieurs fois par semaine dont plusieurs fois avec son groupe d'amis.
+C'est un travailleur normal et pendant son temps libre,  il pratique la course à pied. De ce fait, certains week-ends, il aime bien participer aux courses/joggings seul ou avec ses amis. Il s'entraine plusieurs fois par semaine dont plusieurs fois avec son groupe d'amis.
 
 Il aime bien avoir un accès facile aux courses près de chez lui. Certains sites lui donnent déjà accès à beaucoup d'informations de ce genre (Go running, Chronorace).
 
 Il aime aussi changer d'itinéraire d'entrainement. Pouvoir avoir accès à une bibliothèque de tracés serait un must.
 
-Il aimerai aussi avoir un moyen pratique d'organiser ses entrainements avec ses amis. Devoir passer par facebook ou s'organiser par téléphone est souvent pénible. 
+Il aimerait aussi avoir un moyen pratique d'organiser ses entrainements avec ses amis. Devoir passer par facebook ou s'organiser par téléphone est souvent pénible. 
 
 #### Antécédents
 
@@ -38,7 +38,7 @@ Une interface simple et rapide pour effectuer ses tâches.
 
 -	Faire partie d'un groupe d'entrainement et en être le modérateur.
 -	Créer un planning d'entrainement.
--	Sélectionner des tracés d'entrainements pour chaque entrainements.
+-	Sélectionner des tracés d'entrainements pour chaque entrainement.
 -	Gérer les participants.
 
 ##### Trouver des nouveaux tracés d'entrainements
@@ -52,9 +52,9 @@ Une interface simple et rapide pour effectuer ses tâches.
 ### Julie
 ---
 
-Julie est une organisatrice de courses et jogging. Elle aime quand les participants sont satisfait et reçoivent toutes les information de manière claire et précise (Lieu de départ, distances, ravitaillements, facilitées autour de la course, résultats,..). Pour les résultat justement elle fait appel à Chronorace qui est réputé pour fournir les résultats et les appareils de chronométrage. Ce qui lui manque est une plateforme ou elle pourrait proposer ses courses à des coureurs (un peu comme Go running), mais ou la dimension sociale de la plateforme pousse les utilisateurs à partager les courses à plus de personnes possibles.
+Julie est une organisatrice de courses et du jogging. Elle aime quand les participants sont satisfaits et reçoivent toutes les informations de manière claire et précise (Lieu de départ, distances, ravitaillements, facilitées autour de la course, résultats,..). Pour les résultats justement, elle fait appel à Chronorace qui est réputé pour fournir les résultats et les appareils de chronométrage. Ce qui lui manque,  c'est une plateforme ou elle pourrait proposer ses courses à des coureurs (un peu comme Go running), mais où la dimension sociale de la plateforme pousse les utilisateurs à partager les courses au plus grand nombre de personnes possibles.
 
-Elle gère aussi un club de course à pied et elle recherche un outil pour pouvoir mieux le gérer. Par la même occasion si elle peut en faire la pub à toute une communauté c'est encore mieux.
+Elle gère aussi un club de course à pied et elle recherche un outil pour pouvoir mieux le gérer. Par la même occasion si elle peut en faire de la pub à toute une communauté, c'est encore mieux.
 
 #### Antécédents
 
@@ -62,7 +62,7 @@ Elle gère aussi un club de course à pied et elle recherche un outil pour pouvo
 
 #### Ses attentes
 
-Pouvoir créer des courses facilement et les partager sur le plus de réseaux possible.
+Pouvoir créer des courses facilement et les partager sur le plus de réseaux possibles.
 
 #### Tâches sur sportiveFun
 
@@ -71,7 +71,7 @@ Pouvoir créer des courses facilement et les partager sur le plus de réseaux po
 -	Avoir un rôle lui permettant d'ajouter des évènements.
 -	Une interface de création intuitive qui rend cette création aisée.
 -	La possibilité d'ajouter le tracer de la courses de plusieurs format (.tcx, .klm, .gpx) ou de le faire manuellement.
--	Inviter les utilisateurs à sa course et pouvoir en parler avec eux sur un forum dédier.
+-	Inviter les utilisateurs à sa course et pouvoir en parler avec eux sur un forum dédié.
 -	Poster les résultats après la course (interface automatique?).
 -	Poster des photos de la course.
 -	Poster les sponsors de la course.
@@ -81,7 +81,7 @@ Pouvoir créer des courses facilement et les partager sur le plus de réseaux po
 -	Plannifier les entrainements.
 -	Gérer les membres.
 -	Avoir un aperçu des participations des membres aux entrainements.
--	Pouvoir communiquer des annonces au membres.
+-	Pouvoir communiquer des annonces aux membres.
 
 
 
@@ -90,7 +90,7 @@ Pouvoir créer des courses facilement et les partager sur le plus de réseaux po
 ### Jean
 ---
 
-Jean est un jeune étudiant en éducation physique. En plus du sport pratiqué durant ses études il s'entraine beaucoup en course à pied. Il adore découvrir de nouveaux chemins et les partager à ses amis. 
+Jean est un jeune étudiant en éducation physique. En plus du sport pratiqué durant ses études, il s'entraine beaucoup en course à pied. Il adore découvrir de nouveaux chemins et les partager avec ses amis. 
 
 #### Antécédents
 
@@ -98,7 +98,7 @@ Jean est un jeune étudiant en éducation physique. En plus du sport pratiqué d
 
 #### Ses attentes
 
-Pouvoir créer des courses facilement et les partager sur le plus de réseaux possible.
+Pouvoir créer des courses facilement et les partager sur le plus de réseaux possibles.
 
 #### Tâches sur sportiveFun
 
@@ -110,7 +110,7 @@ Pouvoir créer des courses facilement et les partager sur le plus de réseaux po
 ### Charles
 ---
 
-C'est un novice en course à pied. Il avait envie d'un nouveau hobby et il pensait souvent à se mettre à la course à pied. Il recherche une communauté qui pourrait l'aider dans ses choix (entrainements, équipements,…). Il est aussi à la recherche de personnes avec qui courir. Car certains jours trouver la motivation d'aller courir tout seul est difficile. Une autre source de motivation pour lui est de partager ses résultats. Pour cela il utilise des application comme runtastic et strava pour observer sa progression, ses calories brulée, ...
+C'est un novice en course à pied. Il avait envie d'un nouveau hobby et il pensait souvent à se mettre à la course à pied. Il recherche une communauté qui pourrait l'aider dans ses choix (entrainements, équipements,…). Il est aussi à la recherche de personnes avec qui il pourrait courir. Car certains jours, trouver la motivation pour aller courir tout seul est difficile. Une autre source de motivation pour lui, est de partager ses résultats. Pour cela, il utilise des applications comme runtastic et strava pour observer sa progression, ses calories brulées, ...
 
 #### Antécédents
 
@@ -119,7 +119,7 @@ C'est un novice en course à pied. Il avait envie d'un nouveau hobby et il pensa
 
 #### Ses attentes
 
-Il recherche une communauté qui l'aidera à débuter ce sport. Il recherches des conseils de qualités pour les entrainements, équipements et pourquoi pas des joggings à participer. Il aimerai aussi trouver un groupe de personnes avec qui courir. Par contre il n'attend pas d'un site d'analyse d'entrainements il est déjà satisfait avec Strava.
+Il recherche une communauté qui l'aidera à débuter ce sport. Il recherche des conseils de qualité pour les entrainements, les équipements et pourquoi pas des joggings à participer. Il aimerait aussi trouver un groupe de personnes avec lequel il pourrait courir. Par contre, il n'attend pas d'un site d'analyse d'entrainements, il est déjà satisfait avec Strava.
 
 #### Tâches sur sportiveFun
 
@@ -131,12 +131,12 @@ Il recherche une communauté qui l'aidera à débuter ce sport. Il recherches de
 ##### Rechercher un groupe d'entrainement
 
 -	Trouver des personnes à proximité de chez lui pour s'entrainer en groupe.
--	Intégrer un groupe ou la planification d'entrainement est déjà réalisée.
+-	Intégrer un groupe où la planification d'entrainement est déjà réalisée.
 -	Interagir avec ce groupe dans la partie privée du groupe.
 
 ---
 
-## Tâches principales du site selon les personas
+## Tâches principales du site selon les personas (?)
 
 ### Trouver des courses/joggings/marches
 -	Avoir accès à une liste filtrable selon certains critères (distance, lieu et date).
