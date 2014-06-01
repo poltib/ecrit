@@ -32,7 +32,7 @@ La course à pied est un sport individuel, ce qui implique une grande force d'es
 
 - Donner accès à des groupes d'entrainements
 
-	-	Afficher les groupes à proximité de l'utilisateur (sur une carte et en liste).
+	-	Afficher les groupes à proximité de l'utilisateur (sur une carte et en liste). Pour proposer les groupes sucebtibles de l'intéresser le plus. 
 	
 	-	Création de groupe.
 	

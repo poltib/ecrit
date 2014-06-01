@@ -1,7 +1,9 @@
 # Utilisabilité
 ## Tâches
 
-1. ### Utilisateur primaire
+Description des tâches à effectuer par les testeurs.
+
+### 1. Utilisateur primaire
 
 1. Créer un compte en utilisant l'interface du site.
 	- Changer sa photo de profil.
@@ -19,7 +21,7 @@
 	- Participer à la course.
 	- Poster un forum sur cette course pour demander l'avis d'autres utilisateurs.
 
-2. ### Utilisateur secondaire
+### 2.Utilisateur secondaire
 
 1. Créer un compte en utilisant l'interface du site.
 	- Changer sa photo de profil.
@@ -37,7 +39,7 @@
 	- Demander de faire partie du groupe.
 	- Participer à un évènement de groupe.
 	
-3. ### Utilisateur tertiaire.
+### 3.Utilisateur tertiaire.
 
 1. Créer un compte via facebook.
 	- Modifier les paramètre du compte.
@@ -70,16 +72,22 @@ Suivit des utilisateurs lors du remplissage des formulaires. Beaucoup perdent du
 
 Multiplier les chemins d'accès aux actions. C'est-à-dire qu'il ne doit pas y avoir qu'un seul chemin pour créer un tracé. Il faut donc ajouter des liens pour ces actions sur la page d'acceuil, sur le tableau de bord de l'utilisateur. De la sorte il aura plus de chance de cliquer directement sur le bon lien.
 
+Rappeller l'évènement sur lequelle on crée un tracé. L'utilisateur est perdu quand il veut créer un tracé depuis un évènement, et que sur la page de création, plus rien ne rappelle cet évènement.
+
 ### 2.
 ___
 
 #### S.
 
-1.
+L'utilisateur à effectué les tâches d'un utilisateur secondaire.
 
-2. créer un tracé, poster image.
-2min.
-bonne prise en main de l'interface
+##### Créer un tracé.
+
+Ajouter un tracer ensuite poster une image pour ajouter des informations.
+
+Temps: 2min.
+
+L'utilisateur à vite pris en main l'interface, 
 
 3. trouver évènement, participer, poster forum.
 style forum formulaire
