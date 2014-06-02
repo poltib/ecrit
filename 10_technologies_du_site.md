@@ -143,3 +143,21 @@ Ce service est vraiment simple à utiliser et amène beaucoup d'avantage pour le
 
 
 ### Base de donnée
+
+Voici le schémas de la base de donnée en simplifié. C'est-à-dire que je ne montre pas les données stockées dans les tables mais surtout les relations entr elles.
+
+Le plus complexe dans la base de donnée à été de permettre aux utilisateurs de créer leur tracé. J'ai essayé plusieurs approches.
+
+Le premier moyen que j'avais mit au point était de proposer à l'utilisateur d'uploader un fichier de type tcx, gpx ou kml et je m'occupais de le parser pour l'afficher sur une map.
+
+Ensuite j'ai décider de proposer à l'utilisateur de créer son tracé sur une map en directe, c'est à ce moment la que les problèmes on commencés. J'avais réussi à lui faire faire un tracé sur une map envoyer les données et avec celles ci je voulais générer un fichier kml pour le stocker dans un dossier «uploads» . La seule information dans la base de donné n'étant que le nom du fichier (d'ailleurs la première méthode fait pareil).
+
+J'avais presque réussi à générer le fichier kml puis je me suis rendu compte que ma technique pour stocker l'information n'étais pas très flexible. Rester attacher à des fichier était un problème. En faisant des recherches sur internet j'ai trouvé qu'il y a deux techniques pour stocker des polylines (le tracé). 
+
+J'ai d'abord choisi la première qui consistait à créer une table «tracks», une «tracksegments» et une «points». La «tracks» stocke les informations générales du tracé, «tracksegments« est une table pivot entre «tracks» et «points» et «points» stock tous les points (latitude, longitude) d'un tracé.
+
+Cette solution est la plus flexible. Donc tout était fonctionnel: stocker un tracé dans la base de donnée manuellement à partir d'une map. Le seul problème (oui il y en a toujours) c'est la quantité énorme de ligne que cela prend dans la base de donnée. Pour 3-4 tracés j'en étais déjà à plusieurs millier de lignes dans la table «points»…
+
+De plus je ne prévois pas d'exécuter des queries sur les cordonnées dans la table points (ce qui était le seul but de cette technique). J'ai donc opté pour la solution numéro deux.
+
+Elle consiste à sérialiser une polyline en une chaine de caractère et simplement la stocker dans un champ texte. c'est plus simple et ça ne prend qu'une seule ligne par tracé. J'ai donc supprimé les tables «points» et «tracksegments» et je stocke le tracé dans la table «tracks».
