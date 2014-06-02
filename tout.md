@@ -358,7 +358,7 @@ Tous ces sites ont des qualités et des défaults. Après avoir longtemps parcou
 
 Après l'observations de tous ces sites j'ai pu me lancer dans la conception de l'interface avec une idée clair vers quoi me diriger.
 
-# Conception de l'interface
+# 6.Conception de l'interface
 
 Cette partie reprend les étapes par lesquelles je suis passé pour la conception de l'interface. Beaucoup de points sont directement liés à l'observations des sites dan le chapitre précédant.
 
@@ -394,7 +394,9 @@ Utilisateur connecté sur son tableau de board.
 
 ![Formulaire de création](img/6_4.png)
 
-J'ai choisi ce type de navigation pour simplifier la navigation dans le site. Pour ce faire j'ai du déterminer les sections principales du site (à l'aide de résultats de tests utilisateurs). De cette façon, si l'utilisateur veut rechercher quelque chose, il ne sera pas dérangé par les actions des autres sections.
+J'ai choisi ce type de navigation pour simplifier la navigation dans le site. Pour ce faire j'ai du déterminer les sections principales du site et regrouper les actions par sections. J'ai basé ceci sur les résultats du test des cartes dans la partie test utilisateurs.
+
+Dans ce genre de navigation, si l'utilisateur veut rechercher quelque chose, il ne sera pas dérangé par les actions des autres sections. Mais j'ai quand même ajouter à chaques fois des liens renvoyant vers les autres sections, ou parfois directement vers des actions spécifiques. C'est aussi pour cela que le menu est en position fixe en haut de la page. Pour rappeler à chaque instant la présence de ces sections aux utilisateurs.
 
 ## Couleurs
 
@@ -417,7 +419,7 @@ Et celle pour les titres: "Century Gothic", CenturyGothic, AppleGothic, sans-ser
 
 ## Contenus non-textuels
 
-Icones fontello
+Les icones du site proviennent toutes de fontello
 
 ## Adaptabilité
 
@@ -456,7 +458,6 @@ Et sans javascript
 ![Formulaire de création](img/6_1.png)
 
 Une des seule partie qui n'est pas entièrement dégradable est la création de tracé. Evidement, si l'utilisateur n'a pas javascript il ne pourra pas créer de tracé sur la map. Néanmoins je peux toujours lui proposer de créer son tracé à partir d'un fichier.
-
 
 # 8.Utilisabilité
 ## Tâches
