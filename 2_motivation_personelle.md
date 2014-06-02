@@ -1,4 +1,4 @@
-# Motivation personelle
+# Motivation personnelle
 
 Le projet de fin d'édute a été pour moi une façon de me mettre à l'épreuve. Concrètement, je me suis fixé une liste d'objectifs à réaliser (chaqun lié à une technologie différente). C'est en travaillant de la sorte que j'ai pu aquérir de nouvelles connaissances tout en développant mon projet de fin d'étude. Au final c'est cela qui m'a le plus motivé.
 
@@ -20,8 +20,6 @@ Je pratique également la course à pied. J'ai donc de la chance de me retrouver
 -	#### Bonne modélisation de base de donnée
 
 	En plongeant dans Ruby on Rails, j'ai découvert que beaucoup de personnes utilisent postgresSql comme base de données relationnelle. J'ai aussi appris qu'il y a des extentions pour faciliter la manipulations de données géolocalisées, ce qui justement est super utile dans le cas de mon application. J'ai donc décidé d'utiliser cela pour la base de données. J'avais comme objectif de modéliser une base de données qui serait la plus extensible possible. En prévoyant également l'ajout possible de nouvelles fonctionalités.
-	
-	Mon objectif pour ce projet est de créer une base de données qui convient parfaitement à mes besoins. De plus, elle devrait être facilement extensible pour permettre l'ajout de nouvelles fonctionnalités au site.(ce n'est pas la même chose qu'au chapitre précédant?)
 	
 -	#### Affichage de données complexes
 

@@ -2,6 +2,16 @@
 
 ## Travail encore à réaliser
 
+### Créer une identité graphique au site
+
+### Développer une partie club
+
+### Améliorer l'expérience utilisateur
+
+#### Notifications
+
+#### Messages personnels
+
 ## Retour d'expérience
 
 ### Focaliser ses efforts
@@ -10,6 +20,7 @@ Une des plus grosse erreur que j'ai commise est de m'être lancé dans trop de d
 
 Au final, je me suis retrouvé avec une interface moyenne et des fonctionnalités, certe intéressantes, mais en partie dévellopées. J'ai du faire des choix, je me suis concentré sur l'interface et j'ai mit de côté une partie de mon travail. De cette manière j'ai pu me concentrer sur les autres, pour pouvoir montrer un travail complètement aboutit.
 
+### Ne pas se compliquer la tâche
 
+### Organisation
 
-## fin

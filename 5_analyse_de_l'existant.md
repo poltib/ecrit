@@ -4,7 +4,7 @@ Cette partie est consacrée à l'analyse des sites existants qui offre un servic
 
 Dans la plupart des projets, l'idée a déjà été trouvée, réalisée, améliorée, modifiée, le concept principal n'est pas de trouver l'idée du siècle (même si çela peut toujours être un plus), mais ce qui est important, c'est de quelle façon le produit sera proposé à l'utilisateur, concrètement, d'une manière à lui donner l'expérience la plus agréable et efficace mais également facile d'utilisation et plaisante.
 
-C'est donc important d'analyser les sites du même domaine qui ont déjà été réalisés. Voir s'ils ont réussi et si oui, pourquoi, retenir les points forts et les points faibles pour, finalement, en reprendre le meilleur et améliorer les faiblesses.
+C'est donc important d'analyser les sites du même type, qui ont déjà été réalisés. Voir s'ils ont réussi et si oui, pourquoi, retenir les points forts et les points faibles pour, finalement, en reprendre le meilleur et améliorer les faiblesses.
 
 ### [GoRunning](http://www.gorunning.be/index_fr.php)
 
@@ -16,7 +16,7 @@ GoRunning est un site sur la course à pied. Il propose plusieurs services:
 	
 	![Formulaire de création](img/5_1.png)
 	
-	Un point fort est la création d'une section pour les organisateurs.
+	Un point fort est la création d'une section pour les organisateurs. De sorte qu'ils entretiennent un lien avec les organisateurs, et ainsi sont certain des informations proposées sur les évènements.
 	
 -	Liste de magasins
 
@@ -25,13 +25,18 @@ GoRunning est un site sur la course à pied. Il propose plusieurs services:
 
 ### [Chronnorace](http://www.chronorace.be/web2/default.aspx)
 
-Chronorace est un fournisseur du matériel de chronométrage pour les courses. Ils proposent donc tous les résultats utilisant leur matériel sur leur site. C'est une mine d'informations pour tout coureurs voulant garder une trace de ses résultats.
+Chronorace est un fournisseur du matériel de chronométrage pour les courses. Ils proposent donc tous les résultats utilisant leur matériel sur leur site. C'est une mine d'informations pour tout coureurs voulant garder une trace de ses résultats, ou bien de retrouver ses résultats pour un évènement donné.
 
 Leur site est fort basic car ils proposent beaucoup d'informations à la fois. Mais il à l'air de bien fonctionner auprès des coureurs vu que beaucoup de sites renvoient leurs utilisateurs ici pour les résultats d'évènements.
 
-### [Mapometer](gb.mapometer.com)
+### [Mapometer](http://gb.mapometer.com)
 
-Mapometer est un site de création de tracé. C'est surtout l'interface qu'ils ont dévelopé avec google map qui est intéressante. L'utilisateur a à sa  disposition une quantité d'outils imprésionante. Parfois ça devient même un peu trop compliqué; un accompagnement pour les nouveaux utilisateurs serait un plus.
+Mapometer est un site de création de tracé. C'est surtout l'interface qu'ils ont dévelopé avec google map qui est intéressante. L'utilisateur a à sa  disposition une quantité d'outils imprésionante. Parfois ça devient même un peu trop compliqué, j'ai du tester plusieurs fois chaque outil pour être certain de leur utilitée; un accompagnement pour les nouveaux utilisateurs serait un plus.
+
+![Formulaire de création](img/5_5.png)
+
+Enfin en parcourant leur site je suis tombé sur une fonctionnalité très intéressante. J'ai créé un tracé sur la carte, puis j'ai changé de page sans le sauvegarder, et finalement en revenant sur la page de la carte le site propose de restaurer le tracé.
+ 
 
 ### [Strava](www.strava.com)
 
@@ -76,10 +81,12 @@ Tous ces sites ont des qualités et des défaults. Après avoir longtemps parcou
 -	Pouvoir changer le fond de la map.
 -	Insiter les utilisateurs à faire des actions.
 -	Interface simple et intuitive.
--	
+-	Garder en mémoire le tracé créé.
 
 ### Erreurs à éviter
 
 -	Demander trop d'informations d'un coup aux utilisateurs (long formulaires).
 -	Créer des interfaces complexes.
--	
+
+Après l'observations de tous ces sites j'ai pu me lancer dans la conception de l'interface.
+

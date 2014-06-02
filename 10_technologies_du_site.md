@@ -1,18 +1,32 @@
 # Technologies du site
 
+## Intégration
+
+L'intégration se fait via le moteur de templates erb de rails. Côté client j'ai utilisé toute une liste d'outils pour améliorer la qualité du site et augmenter ma productivité.
+
 ### Outils utilisés
 
 -	Modernizer
+
+	Principale utilité est de tester si l'utilisateur à JavaScript activé. Pour pouvoir rendre le site dégradable.
+
+
 -	jQuery
+
+	Cette bibliothèque est chargée pour accélérer le développement du code JavaScript.
+	
 -	coffeeScript
+
+	Pré-processeur javascript. Ce language rend l'écriture du javascript plus courte et rapide.
+
+	
 -	scss
--	Turbolinks
 
-
+	Pré-processeur CSS, qui rend la création des feuilles de styles vraiment puissant. Les fonctionnalités de SCSS utilisées sont la créations de variables globales, ajout des média-queries dans les éléments, utilisation de mixines pour des actions qui se répètent,… 
 
 -	gmap
 
-		
+	Bibliothèque principale pour tous ce qui apparait sur les cartes: Le la création des tracés à l'affichage de ceux-ci.
 
 -	Eloys
 
@@ -35,6 +49,8 @@ J'ai décidé de développer ce projet avec Ruby on Rails pour plusieurs raisons
 Ce framework est vraiment simple à prendre en main pour une personne qui a déjà une expérience avec un autre framework. Sur le site consacré à Ruby on Rails, il y a une partie concernant la documentation qui est vraiment bien détailée pour les bases. Ensuite, leur API est claire et documentée.
 
 Mon expérience avec Laravel m'a beaucoup aidé car il est inspiré en grande partie de Rails. J'ai donc vite été en confiance avec l'organisation des fichiers et la logique générale. Le framework à aussi accéléré mon temps de développement. En effet, beaucoup de fonctionnalités sont déjà misent en place; comme travailler avec des pré-processeurs. De base scss et coffeeScript sont installer et le développeur n'a pas besoin de perdre du temps à configurer sont environement de travaille pour compiler ses assets.
+
+Avec rails j'ai appris à ne pas me compliquer la tâche. Souvent je développais des parties du site et quelques semaines après en relisant le code, je supprimais la moitier pour donner un résultat identique. Plus je comprennais le framework, plus mon code devenais simple et efficace.
 
 #### Ruby gems
 
@@ -126,4 +142,4 @@ La solution (pour rester dans la gratuité), fut d'uploader les fichiers des uti
 Ce service est vraiment simple à utiliser et amène beaucoup d'avantage pour le développement d'application web. Par exemple si je veux changer d'hébergement il me suffit d'exporter la base de donnée, pousser mon code sur le nouveau serveur, importer la base de donnée et les fichiers seront toujours accessibles. Si j'ai un problème sur le serveur les fichiers des utilisateurs sont en sécurité.
 
 
-
+### Base de donnée

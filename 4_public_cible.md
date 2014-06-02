@@ -1,5 +1,9 @@
 # Public cible
 
+La création du public cible est une étape importante. Après avoir définit les objectifs du site en tant que propriétaire, il est temps de définir les attentes des futurs utilisateurs. Pour pouvoir définir ces attentes, il faut d'abord donner vie à ces personnages, car plus ils auront l'air vrai, plus leurs exigeances seront claires et détaillées. Et en fonction de ces exigeances seront décidés les priorités de développement, et les directions de conception d'interfaces.
+
+Pour commencer le site n'attirera pas que des utilisateurs intéressés dans toutes les fonctionnalités, car tous les utilisateurs sont différents. Pour «mimer» cette différence, j'ai créer différent niveaux de personnas (comme le conseille Amélie Boucher dans son livre «Ergonomie web»). Il y aura donc les personnas primaires: les utilisateurs de base du site. Les personnas secondaire: ceux qui utiliseront le site pour certaines fonctionnalités. Et enfin les personnas tertiaires: les utilisateurs qui viendront que pour une ou deux fonctionnalités.
+
 ## Primaires
 
 ### Séba
@@ -24,7 +28,7 @@ Il aimerait aussi avoir un moyen pratique d'organiser ses entrainements avec ses
 
 Une interface simple et rapide pour effectuer ses tâches.
 
-#### Tâches sur sportiveFun
+#### Attentes sur sportiveFun
 
 ##### Trouver des courses à proximité de chez lui
 
@@ -47,6 +51,7 @@ Une interface simple et rapide pour effectuer ses tâches.
 -	Pouvoir trier cette liste par distance, lieux et difficulté.
 -	Ajouter ses propres tracés à la bibliothèque.
 -	Ajouter des tracés à ses favoris.
+-	Télécharger le tracé en .gpx.
 
 
 ### Julie
@@ -136,7 +141,7 @@ Il recherche une communauté qui l'aidera à débuter ce sport. Il recherche des
 
 ---
 
-## Tâches principales du site selon les personas (?)
+## Tâches principales du site selon les personas
 
 ### Trouver des courses/joggings/marches
 -	Avoir accès à une liste filtrable selon certains critères (distance, lieu et date).
@@ -163,6 +168,7 @@ Il recherche une communauté qui l'aidera à débuter ce sport. Il recherche des
 ### Créer des tracés
 
 -	Interface de création simple et rapide.
+-	Télécharger les tracés (.gpx).
 
 ### Trouver un club
 
