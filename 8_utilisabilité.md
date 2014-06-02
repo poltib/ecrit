@@ -1,7 +1,7 @@
 # Utilisabilité
 ## Tâches
 
-Description des tâches à effectuer par les testeurs.
+Description des tâches à effectuer par les testeurs (chaque testeur à sa propre tâche à effectuer).
 
 ### 1. Utilisateur primaire
 
@@ -20,9 +20,6 @@ Description des tâches à effectuer par les testeurs.
 	- Trouver une course près de chez lui à des dates qui lui conviennent.
 	- Participer à la course.
 	- Poster un forum sur cette course pour demander l'avis d'autres utilisateurs.
-	
-4. créer un groupe d'entrainement.
-	- Ajouter des entraînements au groupe.
 
 ### 2.Utilisateur secondaire
 
@@ -96,15 +93,29 @@ Dans ces premiers test j'ai surtout fait tester les interfaces de créations d'�
 
 #### Utilisateur M.
 
-##### Créer un compte (3min)
+M. est une personnes d'age moyen (+30), qui travaille dans le domaine de l'enseignement. Il aime aussi particulièrement les randonnées à la campagne et le pleine air.
+
+M. est un utilisateur actif sur le web. Il effectue beaucoup de différentes actions sur le net comme par exemple les payements en ligne, recherche de vacances, achat de billet d'avion,… Néanmoins, il n'est pas toujours à l'aise dés que les interfaces deviennent un peu trop complexes.
+
+L'utilisateur à effectué la tâche numéro 1.
+
+Étape            | 1    |  2  |  3
+---------------- | ---- | ----| ---- 
+Temps            | 3min | 7min| 5min
+Tâche accomplie? | oui  | oui | oui
+satisfaction     | 4/7  | 3/7 | 4/7
+
+##### Problèmes rencontré/difficultés
+
+1. Créer un compte
 
 Après avoir tenté de s'inscrire sur la page «connexion» l'utilisateur à compris, grâce aux messages d'erreurs qu'il devait changer de page.
 
-Arrivé sur la page d'inscription, l'utilisateur à perdu du temps car la longueur du mot de passe n'était pas spécifiée; donc la personne rentre un mot de passe de moins de 8 caractères et le site renvoit une erreur.
+Arrivé sur la page d'inscription, l'utilisateur à perdu du temps car la longueur du mot de passe n'était pas spécifiée; donc la personne rentre un mot de passe de moins de 8 caractères et le site renvoi une erreur.
 
 Mis à part cela, la création du compte reste une tâche assez rapide et ne décourage pas trop les utilisateurs.
 
-##### Création d'un évènement (7min)
+2. Création d'un évènement
 
 L'utilisateur à d'abord cherché un à ajouter l'évènement en passant le curseur sur le menu «Évènements», pour finir par trouver le menu ajouter. Le remplissage des informations se fait lentement car il n'y a pas d'explications. Il y a aussi une erreur car l'utilisateur n'a pas remplit tous les champs obligatoire, car ils n'étaient pas indiqués.
 
@@ -112,28 +123,45 @@ Après la création de l'évènement, il a fallut ajouter un tracé dessus. L'in
 
 #### D.
 
-##### Création de compte (1min)
+L'utilisateur à effectué la tâche numéro 1.
+
+Étape            | 1    |  2  |  3
+---------------- | ---- | ----| ---- 
+Temps            | 1min | 5min| 7min
+Tâche accomplie? | oui  | oui | oui
+satisfaction     | 5/7  | 4/7 | 3/7
+
+##### Problèmes rencontré/difficultés
+
+1. Création de compte (1min)
 
 La création du compte en passant par le forumlaire sur la page d'accueil est extrêmement rapide. Placer un formulaire d'inscription visible fut une bonne idée.
 ![Formulaire de création](img/8_2.png)
 
-##### Création d'évènement (5min)
+2. Création d'évènement (5min)
 
-Cet utilisateur avait une expérience précédante sur ce genre de site (www.calculitineraires.fr). La création de l'évènement s'est donc déroulée sans embuches. Juste quelques soucis pour la prise en main de la création du tracé par manque d'accompagnement.
+Cet utilisateur avait une expérience précédante sur ce genre de site (www.calculitineraires.fr). La création de l'évènement s'est donc déroulée sans embuches. Juste quelques soucis pour la prise en main de la création du tracé par manque d'accompagnement. Les flash info ne sont pas assez visibles.
 
 
-##### Recherche d'évènement (7min)
+3. Recherche d'évènement (7min)
 
 L'utilisateur est perdu lors de la recherche car les options de recherche ne sont pas affichées.
 
-
-#### M.
-
-##### Création de forum (2min)
-
-
-
 #### Conclusion après les premiers tests
+
+##### Efficacité
+
+On peut conclure que le site rempli son rôle et est efficace vu que toutes les tâches ont été effectuées avec succès. 
+
+##### Efficience
+
+Bien que le site soit efficace, l'efficience laisse à désirer… Les utilisateurs perdent beaucoup de temps à cause des interfaces bancales, de liens qui ne sont pas assez affordants, ou encore, une architècture de l'information inefficace. Le site n'épaule pas assez ses utilisateurs, ils sont donc obligés de tester par eux même jusqu'a ce qu'ils parviennent à leur fin.
+
+##### Satisfaction
+
+La satisfaction reflète le manque d'efficience du site. Quand les utilisateurs perdent du temps ou ne comprennent pas l'interface, ils sont insatisafait et risquent de quitter le site avant d'avoir accompli leurs tâches. Il est donc primordiale d'augmenter l'expérience utilisateur pour garantir leur satisfaction.
+
+##### Points à améliorer
 
 Trouver un tracé sur la carte n'est pas intuitif. L'utilisateurs ne pense pas à cliquer sur les marqueurs car ils ne sont pas affordants. Il faudrait soit les rendre plus affordant, soit indiquer des informations au survol ou bien mettre la liste des tracés sur une colonne.
 
@@ -155,45 +183,82 @@ ___
 
 #### S.
 
-L'utilisateur à effectué les tâches d'un utilisateur secondaire.
+S. est un jeune étudiant de 16ans. C'est une personne qui est très sportive; natation, course à pied et vélo.
 
-##### Créer un tracé.
+C'est quelqu'un d'habitué au monde de l'internet. Il passe la pluspart de son temps libre, hors sport, à parcourir les forums, effectuer des recherches sur les nouveaux jeux, ou encore regarder des séries. C'est aussi un utilisateur quotidien de smartphone.
 
-Ajouter un tracer ensuite poster une image pour ajouter des informations.
+L'utilisateur à effectué la tâche numéro 1.
 
-Temps: 2min.
+Étape            | 1    |  2  |  3
+---------------- | ---- | ----| ---- 
+Temps            | 2min | 2min| 3min
+Tâche accomplie? | oui  | oui | oui
+satisfaction     | 6/7  | 5/7 | 4/7
 
-L'utilisateur à vite pris en main l'interface, 
+##### Problèmes rencontré/difficultés
 
-3. trouver évènement, participer, poster forum.
-style forum formulaire
-N'as pas compris le fonctionnement des forums.
-2min
+L'utilisateur n'as pas directement compris le fonctionnement des forums.
 
 #### T.
 
+T. est un ouvrié d'une quarentaine d'années. Il passe ses temps libres à s'entrainer en course à pied et participer à des joggings.
+
+Il n'as pas une grande expérience dans le domaine du web, c'est pourquoi, il n'effectue que rarement des tâche dessus. Il y passe néanmoins du temps pour effectuer ses payements en ligne et relever ses mails.
+
+L'utilisateur à effectué la tâche numéro 3.
+
+Étape            | 1    |  2  |
+---------------- | ---- | ----|
+Temps            | 2min | 3min|
+Tâche accomplie? | oui  | oui |
+satisfaction     | 6/7  | 5/7 |
+
+##### Problèmes rencontré/difficultés
+
+Pas de difficultés rencontrées.
+
 #### P.
 
-##### Créer compte et le modifier
-3min
--> Prévenir longueur des mot-de-passe
--> facilité globale, trouve rapidement les formulaires
--> montrer en direct le changement d'image
+P. est un jeune fonctionnaire. En dehors du travail c'est un triathlète. Il passe beaucoup de temps en entraînement. Il aime beaucoup regarder ses tracés effectuer et les comparer avec les autres.
 
-2.
-3min.
+C'est un utilisateur courant du web. Il jongle entre réseaux sociaux, les recherches en tout genre ou encore l'achat de matériel sur internet. Il suit aussi beaucoup l'actualité sportive et est connecté en permanence avec internet (smartphone, tablette, ordinateur portable).
 
+L'utilisateur à effectué la tâche numéro 2.
 
+Étape            | 1    |  2  |  3
+---------------- | ---- | ----| ---- 
+Temps            | 3min | 3min| 2min
+Tâche accomplie? | oui  | oui | oui
+satisfaction     | 4/7  | 5/7 | 5/7
+
+##### Problèmes rencontré/difficultés
+
+L'utilisateur à attendu après avoir chargé une photo dans le champs «file», il s'attendait sûrement à voir la photo se mettre à jour directement.
 
 #### Conclusion après les seconds tests
 
-Les améliorations ont portés leur fruits. Les utilisateurs exécutent les tâches plus rapidement. Car ils trouvent plus vites l'endroit ou faire ces actions. J'ai aussi multiplié les chemins vers les actions, ce qui augmente la rapidité des utilisateurs.
+##### Efficacité
 
-Il y a cependant encore quelques détails à régler.
+Comme pour la première série de tests, toutes les tâches ont étés accomplies avec succès.
 
-- Montrer directement le changement de l'image de profil
+##### Efficience
+
+Il y a eu une nette amélioration de l'efficience par rapport aux premiers tests. Depuis les améliorations les utilisateurs trouvent plus vite ce qui les intéresse.
+
+##### Satisfaction
+
+De fait la satisfaction à également augmentée.
+
+
+##### Points à améliorer
+
+Montrer directement le changement de l'image de profil pour que les utilisateurs n'attendent pas le changement qui ne se produira pas.
+
+Il faut aussi ajouter des explications dans la catégorie forums. Je me suis surtout concentré sur le création de tracés et d'évènements mais il ne faut pas que je néglige les autres parties.
 
 ### Compte rendu général des tests
 
-C'est tests utilisateurs m'ont permit d'améliorer la qualité générale du site. Cela m'a aussi ouvert les yeux sur de grosses erreurs de conceptions et ainsi donné l'occasion de rectifier le tir.
+C'est tests utilisateurs m'ont permit d'améliorer la qualité générale du site. Cela m'a aussi ouvert les yeux sur de grosses erreurs de conceptions et ainsi donné l'occasion de rectifier le tir. C'est souvent quand les personnes commencent à utiliser le site que les problèmes de conception se révèlent. Ce qui rend cette étape si crutiale.
+
+Ces deux batteries de tests ont été très utiles mais il ne faut pas se reposer sur ses lauriers. Le but est de rester constament à l'écoute de ses utilisateurs et d'améliorer le site sans cesse. Pour au finale leur offrir la meilleur expérience utilisateur possible.
 
